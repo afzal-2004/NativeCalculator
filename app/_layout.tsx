@@ -7,7 +7,7 @@ export default function RootLayout() {
         name="index"
         options={{
           headerShown: false,
-          headerStyle: { backgroundColor: "white" },
+          headerStyle: { backgroundColor: "black" },
         }}
       />
     </Stack>
